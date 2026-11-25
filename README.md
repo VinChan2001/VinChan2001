@@ -7,12 +7,12 @@
 I build AI tools that help teams find answers in large document collections and verify the evidence behind them.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vinaychanamallu.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanamalluv210170/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanamalluv/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanamalluvinay@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-ML%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/b8f88fb0-ac3c-4166-98e6-8495e63d525d)
 [![IEEE Paper](https://img.shields.io/badge/IEEE-CICT%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11398869)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinaychanamallu&style=for-the-badge&color=0077B5&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=VinChan2001&style=for-the-badge&color=0077B5&label=Profile+Views)
 
 </div>
 
@@ -34,10 +34,10 @@ At GoML, I work on hybrid search, LLM evaluation, and document review workflows 
 **Agentic Research Assistant** — A planner and executor use tools and shared memory to research questions, with a human review step.
 `LangGraph` `MCP` `OpenAI` `Claude`
 
-**[Telco Churn ML Platform](https://github.com/vinaychanamallu/telco-churn-prediction)** — Dockerized churn pipeline with BigQuery ingestion, Vertex AI champion/challenger training, Cloud Run batch scoring, and SHAP explanations. **0.86 ROC AUC.**
+**[Telco Churn ML Platform](https://github.com/VinChan2001/telco-churn-prediction)** — Dockerized churn pipeline with BigQuery ingestion, Vertex AI champion/challenger training, Cloud Run batch scoring, and SHAP explanations. **0.86 ROC AUC.**
 `Vertex AI` `BigQuery` `Cloud Run` `SHAP` `Docker` &nbsp;·&nbsp; [🔴 Live Dashboard](https://telco-churn-dashboard-service-aecec5bsxa-ue.a.run.app) &nbsp;·&nbsp; [Write-up](https://www.linkedin.com/posts/vinay-chanamallu_mlops-machinelearning-googlecloud-ugcPost-7461165861429534720-_acX)
 
-**[Ollama Poker Agents](https://github.com/vinaychanamallu/Ollama-poker-agents-trn-app)** — Local Texas Hold'em simulator where five Ollama-backed agents play streamed hands, emitting structured JSON actions and reasoning traces to a browser over server-sent events.
+**[Ollama Poker Agents](https://github.com/VinChan2001/Ollama-poker-agents-trn-app)** — Local Texas Hold'em simulator where five Ollama-backed agents play streamed hands, emitting structured JSON actions and reasoning traces to a browser over server-sent events.
 `Ollama` `FastAPI` `SSE` `Multi-Agent` &nbsp;·&nbsp; [Demo & Write-up](https://www.linkedin.com/posts/vinay-chanamallu_ai-llm-ollama-ugcPost-7469974593424904192-VIZh)
 
 **[Walmart Inbound Forecasting](https://drive.google.com/drive/folders/1WqWNmhsgMn8lNj0C-TuIB9QSPsiOMaym?usp=drive_link)** *(UMD Capstone)* — Gradient-boosted 28-day case & truck forecasts over **275K+ records, ~30% below baseline**; staffing decision-support tool projected to cut overtime **8–12%**.
@@ -46,10 +46,10 @@ At GoML, I work on hybrid search, LLM evaluation, and document review workflows 
 **[IEEE: Ensemble Electricity Forecasting](https://ieeexplore.ieee.org/document/11398869)** — First-author IEEE CICT 2025 paper on ensemble gradient boosting for hourly demand. **−16% RMSE, −20% MAE** vs. a tuned LightGBM baseline.
 `XGBoost` `LightGBM` `Research`
 
-**[Medical Image Classification](https://github.com/vinaychanamallu/medical_image_classification)** — Pneumonia detection from chest X-rays with EfficientNetB0. **95.21% accuracy** across 5,840 images.
+**[Medical Image Classification](https://github.com/VinChan2001/medical_image_classification)** — Pneumonia detection from chest X-rays with EfficientNetB0. **95.21% accuracy** across 5,840 images.
 `TensorFlow` `CNN` `Healthcare`
 
-**[Airbnb High-Booking Prediction](https://github.com/vinaychanamallu/Predicting-High-Booking-Rate-Airbnb-Listings)** — **3rd-place** competition model using a stacked XGBoost/CatBoost ensemble with SHAP explainability.
+**[Airbnb High-Booking Prediction](https://github.com/VinChan2001/Predicting-High-Booking-Rate-Airbnb-Listings)** — **3rd-place** competition model using a stacked XGBoost/CatBoost ensemble with SHAP explainability.
 `XGBoost` `CatBoost` `SHAP`
 
 <details>
@@ -59,12 +59,12 @@ At GoML, I work on hybrid search, LLM evaluation, and document review workflows 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Flight Delay Prediction](https://github.com/vinaychanamallu/Flight-Delay-Prediction-Pipeline) | Delay prediction over 3.6M+ BTS records with weather-API integration and leakage-safe splits | `XGBoost` `Weather API` `CLI` |
-| [CATT Lab Crash Clearance](https://github.com/vinaychanamallu/catt-crash-clearance) | Transportation-safety research with UMD CATT Lab; XGBoost + VIF multicollinearity reduction | `XGBoost` `Feature Eng` |
-| [RAG Chatbot](https://github.com/vinaychanamallu/RAG_Chatbot) | Retrieval-augmented chatbot for contextually grounded responses | `RAG` `LLM` `Python` |
-| [Financial Market ML Analysis](https://github.com/vinaychanamallu/financial-market-ml-analysis) | Market modeling on real-time Yahoo Finance data | `Python` `Finance` `ML` |
-| [Energy Forecasting (India)](https://github.com/vinaychanamallu/Time-series-forecasting-of-energy-in-India) | Ensemble gradient-boosting electricity forecasting with SHAP explanations | `XGBoost` `LightGBM` `SHAP` |
-| [Movie Sentiment LSTM](https://github.com/vinaychanamallu/pro_2) | Sentiment analysis on IMDB 50k reviews, 90–95% accuracy | `TensorFlow` `LSTM` `NLP` |
+| [Flight Delay Prediction](https://github.com/VinChan2001/Flight-Delay-Prediction-Pipeline) | Delay prediction over 3.6M+ BTS records with weather-API integration and leakage-safe splits | `XGBoost` `Weather API` `CLI` |
+| [CATT Lab Crash Clearance](https://github.com/VinChan2001/catt-crash-clearance) | Transportation-safety research with UMD CATT Lab; XGBoost + VIF multicollinearity reduction | `XGBoost` `Feature Eng` |
+| [RAG Chatbot](https://github.com/VinChan2001/RAG_Chatbot) | Retrieval-augmented chatbot for contextually grounded responses | `RAG` `LLM` `Python` |
+| [Financial Market ML Analysis](https://github.com/VinChan2001/financial-market-ml-analysis) | Market modeling on real-time Yahoo Finance data | `Python` `Finance` `ML` |
+| [Energy Forecasting (India)](https://github.com/VinChan2001/Time-series-forecasting-of-energy-in-India) | Ensemble gradient-boosting electricity forecasting with SHAP explanations | `XGBoost` `LightGBM` `SHAP` |
+| [Movie Sentiment LSTM](https://github.com/VinChan2001/pro_2) | Sentiment analysis on IMDB 50k reviews, 90–95% accuracy | `TensorFlow` `LSTM` `NLP` |
 
 </details>
 
@@ -133,13 +133,13 @@ Deployment & monitoring: **AWS Bedrock · ECS Fargate · SageMaker · CloudWatch
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vinaychanamallu&theme=dark&hide_border=true&border_radius=10">
-  <img src="https://streak-stats.demolab.com/?user=vinaychanamallu&theme=default&hide_border=true&border_radius=10" alt="GitHub streak stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=VinChan2001&theme=dark&hide_border=true&border_radius=10">
+  <img src="https://streak-stats.demolab.com/?user=VinChan2001&theme=default&hide_border=true&border_radius=10" alt="GitHub streak stats">
 </picture>
 
 <br>
 
-[![Explore all repositories »](https://img.shields.io/badge/Explore%20all%20repositories%20%C2%BB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaychanamallu?tab=repositories)
+[![Explore all repositories »](https://img.shields.io/badge/Explore%20all%20repositories%20%C2%BB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinChan2001?tab=repositories)
 
 </div>
 
@@ -151,6 +151,6 @@ Deployment & monitoring: **AWS Bedrock · ECS Fargate · SageMaker · CloudWatch
 
 Open to full-time roles in **Generative AI, ML engineering, and applied data science.**
 
-[**Portfolio**](https://www.vinaychanamallu.com/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/chanamalluv210170/) &nbsp;·&nbsp; [**Email**](mailto:chanamalluvinay@gmail.com) &nbsp;·&nbsp; [**Tableau**](https://public.tableau.com/app/profile/vinay.ch8272/vizzes)
+[**Portfolio**](https://www.vinaychanamallu.com/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/chanamalluv/) &nbsp;·&nbsp; [**Email**](mailto:chanamalluvinay@gmail.com) &nbsp;·&nbsp; [**Tableau**](https://public.tableau.com/app/profile/vinay.ch8272/vizzes)
 
 </div>
